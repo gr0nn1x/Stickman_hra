@@ -1,3 +1,3 @@
 # Stickman_Hra
-[Play!](https://gr0nn1x.github.io/Stickman_Hra/index.html)
+[Play!](https://github.com/gr0nn1x/Stickman_hra/blob/main/index.html)
 
